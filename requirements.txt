@@ -1,0 +1,2 @@
+pymunk>=6.6
+pygame>=2.5
